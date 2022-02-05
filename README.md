@@ -24,7 +24,9 @@ code .
 
 ### Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir onu açınız.
 
-
+# Ödevler 
+  ### HTML
+    * [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/odev%202)
 
 ## License
 ---
