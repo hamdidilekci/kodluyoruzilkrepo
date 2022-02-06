@@ -26,7 +26,8 @@ code .
 
 # Ödevler 
   ### HTML
-    * [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/odev%202)
+    [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/odev%202)
+    [bolum sonu odevi](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/html%20bolum%20sonu%20odevi)
 
 ## License
 ---
