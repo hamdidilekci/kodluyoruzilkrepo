@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(222, 223, 187);
+}
+
+.background-color {
+    background-color: pink;
+}
+
+
+h1{
+    color: rgb(192, 22, 22);
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+h3{
+    font-size: 27px;
+}
+
+p{
+    font-size: 20px;
+}
+
+li{
+    color: rgb(70, 7, 54);
+    font-size: 20px;
+}
