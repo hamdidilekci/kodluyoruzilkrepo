@@ -26,12 +26,12 @@ code .
 
 # Ödevler 
   ### HTML
-    [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/odev%202)
-    [bolum sonu odevi](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/html%20bolum%20sonu%20odevi)
-    [bolum sonu odevi2](https://github.com/hamdidilekci/kodluyoruzilkrepo/blob/main/html%20bolum%20sonu%20odevi2/)
+  - [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/odev%202)
+  - [bolum sonu odevi](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/html%20bolum%20sonu%20odevi)
+  - [bolum sonu odevi2](https://github.com/hamdidilekci/kodluyoruzilkrepo/blob/main/html%20bolum%20sonu%20odevi2/)
   ### CSS
-    [ödev1](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/CSS%20modul%20odev1)
-    [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/CSS%20modul%20odev2)
+  - [ödev1](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/CSS%20modul%20odev1)
+  - [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/CSS%20modul%20odev2)
 
 ## License
 ---
