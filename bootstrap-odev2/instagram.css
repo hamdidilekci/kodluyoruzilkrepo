@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+    
+}
+
+button{
+    border-style: none;
+    background: none; 
+    padding: 10px;   
+}
+
+nav{
+    height: 54px;
+    background-color: white;
+    padding: 90px;
+}
+
+body { 
+    padding-top: 80px; 
+}
+
+.storyphoto {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+  }
