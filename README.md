@@ -35,9 +35,9 @@ code .
   - [ödev3](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/CSS%20modul%20odev3)
   ### Bootstrap
   - [ödev1](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev1)
-  - [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev2/instagramclone)
+  - [ödev2-isntagram](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev2/instagramclone)
   - [medium clone](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/medium%20clone)
-  - [ödev3](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev-3/bootstraplinkedinclone)
+  - [ödev3-linkedin](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev-3/bootstraplinkedinclone)
 
 ## License
 ---
