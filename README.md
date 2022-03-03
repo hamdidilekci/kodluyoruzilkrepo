@@ -38,6 +38,8 @@ code .
   - [ödev2-isntagram](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev2/instagramclone)
   - [medium clone](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/medium%20clone)
   - [ödev3-linkedin](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev-3/bootstraplinkedinclone)
+  ### javaScript
+  - [ödev1](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-1)
 
 ## License
 ---
