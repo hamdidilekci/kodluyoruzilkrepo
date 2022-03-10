@@ -40,6 +40,7 @@ code .
   - [ödev3-linkedin](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev-3/bootstraplinkedinclone)
   ### javaScript
   - [ödev1](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-1)
+  - [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-2)
 
 ## License
 ---
