@@ -39,8 +39,9 @@ code .
   - [medium clone](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/medium%20clone)
   - [ödev3-linkedin](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/bootstrap-odev-3/bootstraplinkedinclone)
   ### javaScript
-  - [ödev1](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-1)
-  - [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-2)
+  - [ödev1](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-1-clock)
+  - [ödev2](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-2-todolist)
+  - [ödev3](https://github.com/hamdidilekci/kodluyoruzilkrepo/tree/main/javaScript-odev-3-asiankitchen)
 
 ## License
 ---
